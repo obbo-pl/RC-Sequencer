@@ -1,4 +1,5 @@
 # RC-Sequencer
+  The purpose of the system is to switch on several electrical circuits using one RC channel. The change of state takes place according to programmed sequences. 
 
 ##### Main features:
 - 4 output circuits,
