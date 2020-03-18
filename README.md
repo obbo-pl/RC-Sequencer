@@ -9,3 +9,6 @@
 - the ability to change the sequence in both directions,
 - maximum output circuit current: 1A,
 - maximum voltage for output circuits: 20V.
+
+### Hardware & Firmware.
+These sections covers info on building sample hardware, including schematics, PCBs, and the corresponding firmware.
